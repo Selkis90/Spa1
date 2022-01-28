@@ -589,10 +589,10 @@ li.menu__item.menu__item--current a.menu__link {
 	-ms-transition:0.5s all;
 }
 .spa-ico {
-    background: #009688;
+    background: #ffffff;
     width: 62px;
     height: 62px;
-    transform: rotate(45deg);
+    transform: rotate(1deg);
     margin: -32px auto 0;
 }
 .con-left span {
